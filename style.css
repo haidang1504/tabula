@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  header {
+    background: url("./../img/img_ourteam/yellow_top_wave_01.png");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  header .navbar-brand img {
+    width: 80px;
+    margin-left: 150px;
+    margin-right: 240px;
+  }
+  
+  header #our_teamNavbar .nav-link {
+    color: #000;
+    padding: 0px 23px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  
+  header #our_teamNavbar .nav-link:hover {
+    color: #b61984;
+  }
+  
+  header .phone_number {
+    padding-right: 200px;
+  }
+  
+  header .phone_number button {
+    border-radius: 20px;
+    background-color: #b61984;
+    color: #fff;
+    border: none;
+    padding: 9px 20px;
+  }
+  
+  #carousel {
+    background: url("./../img/img_ourteam/Violet_top_left_wave.png");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #carousel .carousel_text {
+    padding: 200px;
+    float: left;
+  }
+  
+  #carousel .carousel_text span {
+    color: #b61984;
+    font-weight: 700;
+    font-size: 15px;
+  }
+  
+  #carousel .carousel_text h1 {
+    font-size: 60px;
+    font-weight: 700;
+  }
+  
+  #content {
+    background-color: #dcd1f3;
+    padding: 30px;
+  }
+  
+  #content .lens {
+    text-align: center;
+  }
+  
+  #content .lens span {
+    font-size: 12px;
+    font-weight: 700;
+    color: #b61984;
+  }
+  
+  #content .lens h4 {
+    font-size: 25px;
+    font-weight: 700;
+  }
+  
+  #contact {
+    background-image: url("./../img/img_ourteam/accent_bottom_wave_01.png");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #contact .contact_img {
+    float: left;
+  }
+  
+  #contact .contact_title {
+    padding: 170px;
+  }
+  
+  #contact .contact_title .card h1 {
+    font-size: 42px;
+    text-align: center;
+    font-weight: 700;
+  }
+  
+  #contact .contact_title .card-body .button button {
+    border-radius: 20px;
+    background-color: #b61984;
+    color: #fff;
+    border: none;
+    padding: 9px 20px;
+  }
+  
+  #contact .contact_title .card-body .button:hover {
+    color: #fff;
+  }
+  
+  #footer {
+    background-image: url("./../img/img_ourteam/footer_background.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #footer .footer_brand .local_title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  #footer .footer_brand .local_title .local_1 {
+    padding-right: 100px;
+  }
+  
+  #footer .footer_brand .local_title .local_1 h3 {
+    color: #fff;
+  }
+  
+  #footer .footer_brand .local_title .local_1 ul {
+    list-style: none;
+    padding-top: 20px;
+  }
+  
+  #footer .footer_brand .local_title .local_1 ul li {
+    padding-bottom: 10px;
+  }
+  
+  #footer .footer_brand .local_title .local_1 ul li a {
+    color: #fff;
+    padding-top: 10px;
+  }
+  
+  #footer .footer_brand .local_title .local_1 ul li i {
+    color: #fff;
+  }
+  
+  #footer .footer_brand .local_title .local_1 ul li span {
+    color: #fff;
+  }
+  
+  #footer .footer_brand .local_title .local_1 .main ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  #footer .footer_brand .local_title .local_1 .main ul a {
+    padding-right: 10px;
+  }
+  
+  #footer .footer_brand .local_title .local_1 .main:hover {
+    color: #000;
+  }
+  
+  #footer .footer_brand .newletter input {
+    text-align: center;
+    padding: 17px;
+    border-radius: 15px;
+    border: none;
+    background-color: #b61984;
+  }
+  
+  #footer .footer_brand .newletter button {
+    border-radius: 20px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    padding: 10px 60px;
+  }
+  /*# sourceMappingURL=style.css.map */

@@ -1,0 +1,39 @@
+#contact {
+    background-image: url("./../img/img_ourteam/Wave_White_bottom_right_shape_01.png");
+    background-size: cover;
+    background-position: center;
+
+
+
+    .contact_img {
+        float: left;
+    }
+
+    .contact_title {
+        padding: 170px;
+
+        .card {
+            h1 {
+                font-size: 42px;
+                text-align: center;
+                font-weight: 700;
+            }
+        }
+
+        .card-body {
+
+            .button {
+                button {
+                    border-radius: 20px;
+                    background-color: #b61984;
+                    color: #fff;
+                    border: none;
+                    padding: 9px 20px;
+                }
+                &:hover{
+                    color:#fff
+                }
+            }
+        }
+    }
+}

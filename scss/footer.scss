@@ -1,0 +1,80 @@
+#footer {
+    background-image: url("./../img/img_ourteam/footer_background.jpg");
+    background-size: cover;
+    background-position: center;
+
+    .footer_brand {
+        
+
+        .local_title {
+            display: flex;
+
+            .local_1 {
+                padding-right: 100px;
+
+                h3 {
+                    color: #fff;
+                }
+
+                ul {
+                    list-style: none;
+                    padding-top: 20px;
+
+                    li {
+                        padding-bottom: 10px;
+
+                        a {
+                            color: #fff;
+                            padding-top: 10px;
+                        }
+
+                        i {
+                            color: #fff;
+                        }
+
+                        span {
+                            color: #fff;
+                        }
+                    }
+                }
+
+                .main {
+                    ul {
+                        display: flex;
+
+                        a {
+                            padding-right: 10px;
+
+                        }
+
+                    }
+
+                    &:hover {
+                        color: #000;
+                    }
+                }
+            }
+        }
+
+        .newletter {
+            input {
+                text-align: center;
+                padding: 17px;
+                border-radius: 15px;
+                border: none;
+                background-color: #b61984;
+            }
+
+            button {
+                border-radius: 20px;
+                background-color: #fff;
+                color: #000;
+                border: none;
+                padding: 10px 60px;
+                ;
+            }
+        }
+    }
+
+
+}
